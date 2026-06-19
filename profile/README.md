@@ -1,4 +1,4 @@
-# .github
+# Crested Fox Games
 
 Welcome to Crested Fox Games
 
